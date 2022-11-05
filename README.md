@@ -6,5 +6,6 @@ Out of the many songs in this book that I have played, this one is easily the be
 
 It's not hard to play. Actually, it's pretty easy, as long as you don't go too fast. What's hard is absorbing the quirks and irregularities. It's like a hand-made woodcut. No circle is perfectly round, no line is perfectly straight, no pattern is perfectly repeated, nothing is predictable. 
 
-Regarding the title of the song, I never play this music without wondering who Litten was thinking of. The music has deep feeling. As a working sailor at the height of slavery, he was personally acquainted with many people enslaved into the galley. Did he meet someone's eyes? I never play this song without thinking about that person and feeling their tragedy. 
+Regarding the title of the song, I never play this music without wondering who Litten was thinking of. The music has deep feeling. As a working seaman, he was personally acquainted with many [people enslaved into the galley](https://en.wikipedia.org/wiki/Galley_slave). Did he meet someone's eyes? I never play this song without thinking about that person and feeling their tragedy. 
 
+![](The_Galley_Slave-1.jpg)
