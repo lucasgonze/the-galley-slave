@@ -1,4 +1,4 @@
-## Why This Exists
+## Why I Made This Sheet Music
 
 This repository contains my digital transcription of a song in a book titled "William Litten's Fiddle Tunes: 1800-1802." The book was published in 1977 in Vineyard Haven, Massachusetts, by Hines Point Publishers. As far as I can tell the original had only a single run, maybe self-published by a company that only produced this one title. I came across it in the back stacks of a sheet music store in Boston ("The Beehive: Jazz Hive - No Jive!") around 1982. 
 
