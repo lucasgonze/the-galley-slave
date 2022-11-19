@@ -34,3 +34,24 @@ It is free software under the terms of the GPL Version 3. MuseScore is on Github
 
 I love hearing what other people create based on my work - let me know!
 
+ # Copyright Status
+
+ Although I am confident my transcription and distribution of this work would pass a fair use challenge, it would be good to simply put the entire book under a permissive license. In hopes of convincing the rights holder to do that I attempted to find them. These are the facts that I discovered. 
+
+1. The original publication was in 1977 in the state of Massachusetts. 
+
+2. The author, Elon Gale Huntington, died in 1993 in Massachusetts. [Obituary](https://www.ancestry.com/genealogy/records/elon-gale-huntington-24-2sf9dg).
+
+3. Rights probably passed to the author's wife, Mildred Tilton Huntington. She died in 2003 in Massachusetts. [Record on Find-a-Grave](https://www.findagrave.com/memorial/185317603/mildred-aurelia-huntington).
+
+4. Rights probably passed to the author's child, Emily Huntington Rose. She died in 2013 in Massachusetts. [https://www.findagrave.com/memorial/192476433/emily-rose](https://www.findagrave.com/memorial/192476433/emily-rose)
+
+5. Rights would have passed to author's grandchildren, but I found no record of Emily Huntington Rose having children. 
+
+6. Rights could conceivably has passed to siblings of Mildred Tilton Huntington, but there were none. 
+ 
+The above concerns Gale Huntington's copyright. My own copyrights on this repository are under the Creative Commons CC0 Public Domain Dedication. 
+
+You do not need my permission to use my work. If I am unavailable to grant you permission, you should proceed. However I cannot grant you permissions to Gale Huntington's work.
+
+
